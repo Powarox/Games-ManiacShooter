@@ -1,0 +1,7 @@
+audio=1
+ratioVolMusique=0.23
+ratioVolJeu=0.06
+ratioVolInterface=0.02
+largeur=780
+hauteur=585
+ratioAffichage=0.65
